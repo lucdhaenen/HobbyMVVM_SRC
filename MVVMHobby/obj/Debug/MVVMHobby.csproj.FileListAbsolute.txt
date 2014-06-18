@@ -1,0 +1,52 @@
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\MVVMHobby.exe.config
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\MVVMHobby.exe
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\MVVMHobby.pdb
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.dll
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\GalaSoft.MvvmLight.WPF45.dll
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\System.Windows.Interactivity.dll
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.pdb
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.xml
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\GalaSoft.MvvmLight.WPF45.pdb
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\GalaSoft.MvvmLight.WPF45.xml
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\System.Windows.Interactivity.xml
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMHobby\MVVMHobby\obj\Debug\MVVMHobby.csprojResolveAssemblyReference.cache
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMHobby\MVVMHobby\obj\Debug\View\HobbyView.baml
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMHobby\MVVMHobby\obj\Debug\View\HobbyView.g.cs
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMHobby\MVVMHobby\obj\Debug\App.g.cs
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMHobby\MVVMHobby\obj\Debug\MVVMHobby_MarkupCompile.cache
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMHobby\MVVMHobby\obj\Debug\MVVMHobby.g.resources
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMHobby\MVVMHobby\obj\Debug\MVVMHobby.Properties.Resources.resources
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMHobby\MVVMHobby\obj\Debug\MVVMHobby.csproj.GenerateResource.Cache
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMHobby\MVVMHobby\obj\Debug\MVVMHobby.exe
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMHobby\MVVMHobby\obj\Debug\MVVMHobby.pdb
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\MVVMHobby.exe.config
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\MVVMHobby.exe.manifest
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\MVVMHobby.application
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\MVVMHobby.exe
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\MVVMHobby.pdb
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.dll
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\GalaSoft.MvvmLight.WPF45.dll
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\System.Windows.Interactivity.dll
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.pdb
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.xml
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\GalaSoft.MvvmLight.WPF45.pdb
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\GalaSoft.MvvmLight.WPF45.xml
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\bin\Debug\System.Windows.Interactivity.xml
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\obj\Debug\MVVMHobby.csprojResolveAssemblyReference.cache
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\obj\Debug\View\HobbyView.baml
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\obj\Debug\View\HobbyView.g.cs
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\obj\Debug\App.g.cs
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\obj\Debug\MVVMHobby_MarkupCompile.cache
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\obj\Debug\MVVMHobby.g.resources
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\obj\Debug\MVVMHobby.Properties.Resources.resources
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\obj\Debug\MVVMHobby.csproj.GenerateResource.Cache
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\obj\Debug\MVVMHobby.exe.manifest
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\obj\Debug\MVVMHobby.application
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\obj\Debug\MVVMHobby.exe
+H:\Visual Studio\2013\Projects\MVVMHobby\MVVMHobby\obj\Debug\MVVMHobby.pdb
